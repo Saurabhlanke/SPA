@@ -74,7 +74,6 @@ export default class App extends React.Component {
 
       this.setState({ images: imagesTemp })
 
-
     }
     catch (error) {
       console.log(error)
